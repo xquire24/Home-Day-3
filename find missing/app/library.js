@@ -23,7 +23,7 @@ findMissing: function(arr1,arr2){
   if(firstArrayLength===secondArrayLength){
     return 0;
   }else{
-  	return result;
+  	return result[0];
     }
   }
 
